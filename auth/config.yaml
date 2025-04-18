@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    admin:
+      name: Administrador
+      password: '<HASH_DE_ADMIN123>'
+    invitado:
+      name: Invitado
+      password: '<HASH_DE_INV123>'
+
+cookie:
+  name: control_electoral
+  key: abcdef
+  expiry_days: 1
