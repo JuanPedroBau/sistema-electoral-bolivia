@@ -2,12 +2,22 @@ credentials:
   usernames:
     admin:
       name: Administrador
-      password: '<HASH_DE_ADMIN123>'
+      password: "$2b$12$W68Wte9HXSurn80eNdQ/1Ot.56j7QsYX5T41cb.Gf4p9Z6UCvSbkC"
     invitado:
       name: Invitado
-      password: '<HASH_DE_INV123>'
+      password: "$2b$12$loeAbRe2xfO/7xCbamTnXON8oTtp3eURVYXZ5sWATgZ7/Znmr/Co."
+    tuto:
+      name: Tuto Quiroga
+      password: "$2b$12$6MwG60d35/xwhyYnFDCeiu88ftKi50NTTMHerS4AbHgbRv4g6JAUC"
+    analista:
+      name: Analista
+      password: "$2b$12$OL8tGBCrQPb1JnWLno8hdO6W/4izPqZstl7.LFSfYj0xrIrCf5qlG"
+    observador:
+      name: Observador
+      password: "$2b$12$sHssXhcNR1EzpWcFldH58e5zcdlyE9WvVJvanpdryxfiOFmoGuZ9q"
 
 cookie:
-  name: control_electoral
-  key: abcdef
-  expiry_days: 1
+  name: test_cookie_bolivia_1
+  key: 123456789088785718998747819284476761253164647981783174612784621919182482148912
+  expiry_days: 0
+
